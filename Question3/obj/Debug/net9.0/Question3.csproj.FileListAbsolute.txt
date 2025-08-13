@@ -1,0 +1,15 @@
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\bin\Debug\net9.0\Question3.exe
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\bin\Debug\net9.0\Question3.deps.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\bin\Debug\net9.0\Question3.runtimeconfig.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\bin\Debug\net9.0\Question3.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\bin\Debug\net9.0\Question3.pdb
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.AssemblyInfoInputs.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.AssemblyInfo.cs
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.sourcelink.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\refint\Question3.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.pdb
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\Question3.genruntimeconfig.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment3-11031981\Question3\obj\Debug\net9.0\ref\Question3.dll
