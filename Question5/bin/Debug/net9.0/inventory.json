@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Stapler",
+    "Quantity": 12,
+    "DateAdded": "2025-08-14T00:53:20.6327629+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Printer Paper (A4)",
+    "Quantity": 500,
+    "DateAdded": "2025-08-14T00:53:20.6359738+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Ink Cartridge",
+    "Quantity": 36,
+    "DateAdded": "2025-08-14T00:53:20.6359751+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Whiteboard Markers",
+    "Quantity": 20,
+    "DateAdded": "2025-08-14T00:53:20.6359752+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Folders",
+    "Quantity": 60,
+    "DateAdded": "2025-08-14T00:53:20.6359753+00:00"
+  }
+]
